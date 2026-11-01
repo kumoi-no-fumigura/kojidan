@@ -3851,6 +3851,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 203,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-kojidan",
   "work": "古事談",
@@ -3863,7 +3867,7 @@
   "blocks": 205,
   "chars": 105444,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 203,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T10:27:01+09:00"
